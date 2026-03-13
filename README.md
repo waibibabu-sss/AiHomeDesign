@@ -35,6 +35,15 @@
 
 - **开源共建**： 图纸在实际落地细节（如生产工艺、收口逻辑等）上仍有考究空间。未来会持续调整迭代 `AI Prompt`，非常欢迎各位设计师和开发者提出宝贵建议，参与共创。
 
+- **案例效果**：
+<img width="1597" height="719" alt="image" src="https://github.com/user-attachments/assets/1dec3454-0d31-4c86-88af-b3b30d5391d1" />
+<img width="1503" height="358" alt="image" src="https://github.com/user-attachments/assets/ef84ed98-7067-4fa1-b350-35a83c3462b1" />
+<img width="1179" height="1203" alt="image" src="https://github.com/user-attachments/assets/ee5e806b-d2bf-416d-b210-289c345f5aee" />
+
+
+
+
+
 ### ⚪ [规划中] 阶段二：AI 平面方案设计
 
 后续规划中......
